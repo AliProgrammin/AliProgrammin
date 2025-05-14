@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliProgrammin
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Full-stack dev and GenAI
 - 🌱 I’m currently learning Computer Science
 - ⚡ Fun fact: I am Colorblind.
 
